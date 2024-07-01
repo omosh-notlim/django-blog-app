@@ -1,0 +1,5 @@
+.myvenv/
+blog/__pycache__
+blog_store/__pycache__
+media/
+users/__pycache__
